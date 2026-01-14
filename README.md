@@ -15,7 +15,7 @@ I was confused about CNN components and wanted to actually **understand** them. 
 * ✅ **Honest Analysis:** Documenting what works and, more importantly, what doesn't.
 
 ## 🌟 What's Different Here?
-I try to tested multiple configurations and documented surprises—**like why 2 layers sometimes beat 3!** I wanted to move beyond "just following along" to truly understanding the architecture.
+I try to tested multiple configurations and documented surprises**like why 2 layers sometimes beat 3!** I wanted to move beyond "just following along" to truly understanding the architecture.
 
 ## 📚 Acknowledgments
 This work builds upon excellent tutorials and insights from:
